@@ -1,6 +1,6 @@
 # Projeto Airbnb Porto - Previsão de Preço de Imóvel
 
-![imagem](DSC_0460.jpg)
+![imagem](ponte.jpg)
 
 ## Contexto
 O Airbnb é uma comunidade baseada na partilha que surgiu em 2008 quando dois designers que tinham um espaço para partilhar hospedaram três viajantes que estavam à procura de alojamento. 
